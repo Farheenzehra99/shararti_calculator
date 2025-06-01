@@ -1,0 +1,20 @@
+[project]
+name = "shararti-calculator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Farheenzehra99", email = "farheenzehra481@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.5.5",
+    "python-dotenv>=1.1.0",
+]
+
+[project.scripts]
+shararti-calculator = "shararti_calculator:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
