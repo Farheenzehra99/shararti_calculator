@@ -23,7 +23,7 @@
 ## 📸 Screenshot
 
 > _“What's 13 plus 27 divided by 4?”_  
-> ![Shararti Calculator Screenshot](link-to-screenshot-if-you-have-one)
+> ![Shararti Calculator Screenshot](assets/Screenshot%20.png)
 
 ---
 
